@@ -13,7 +13,7 @@ services:
       - java
       - -jar
       - /kissmanga-downloader.jar
-      - http://kissmangas.com/manga/virtual-world-close-combat-mage
+      - http://kissmangas.com/virtual-world-close-combat-mage-chapter-138#1
   selenium:
     image: "elgalu/selenium:latest"
     ports:
